@@ -1,0 +1,12 @@
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\bin\Debug\net8.0\TorontoWeather.deps.json
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\bin\Debug\net8.0\TorontoWeather.dll
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\bin\Debug\net8.0\TorontoWeather.pdb
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.csproj.AssemblyReference.cache
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.AssemblyInfoInputs.cache
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.AssemblyInfo.cs
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.csproj.CoreCompileInputs.cache
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.dll
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\refint\TorontoWeather.dll
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\TorontoWeather.pdb
+D:\Lambton College\Third Sem\CSD 3354 6 [B125] Web Applications Using C#.NET\F24\CSD_3354_6\TorontoWeather\TorontoWeather\obj\Debug\net8.0\ref\TorontoWeather.dll
