@@ -11,7 +11,7 @@
     <Copyright>UtsavBajracharya2024</Copyright>
     <PackageProjectUrl>example.com/tempfornow</PackageProjectUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
-    <RepositoryUrl>github.com/tempfornow</RepositoryUrl>
+    <RepositoryUrl>https://github.com/UtsavBajracharya/TorontoWeather.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>weather,toronto,utsav</PackageTags>
     <PackageReleaseNotes>first release</PackageReleaseNotes>
